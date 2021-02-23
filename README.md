@@ -22,7 +22,7 @@
 <p align="center">
 Move it é um site com o objecto de aplicarmos a tecnica pomodoro, pois durante o nosso trabalho como desenvolvedores ficamos muito tempo na frente do computador, e esquecemos de movimentar os braços, alongar as pernas e fazer exercicios, isto que é essencial para mantermos o corpo saudável, e é ai onde entra o <strong>MoveIt</strong> para nos ajudar a ter pausas, durante o nosso momento de trabalho para nos movimentarmos. 
 </p>
-<h1 align="center"><a target="_blank" href="https://isaiasnhantumbo.github.io/institucional-website/">Acessar Demonstração</a></h1>
+<h1 align="center"><a target="_blank" href="https://moveit-nu.vercel.app/">Acessar Demonstração</a></h1>
 
 ## ✅ Features
   - [ ] Ver o tempo que ja estamos na tarefa
