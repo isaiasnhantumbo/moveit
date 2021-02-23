@@ -1,7 +1,7 @@
 <br/>
 <h1 align="center">Move it</h1>
 <p align="center">
-    <img src ="./assets/" > 
+    <img src ="./public/Screenshot-20210223172221.png" > 
 </p>
 <h2 align="center"> 
 <img src="https://img.shields.io/badge/Status-Em_CONSTRUÇÃO-green">
@@ -20,12 +20,14 @@
 ## 📖 Descrição do Projecto
 
 <p align="center">
-Move it é um site com o objecto de aplicarmos a tecnica pomodoro, pois durante o nosso trabalho como desenvolvedores ficamos muito tempo na frente do computador, e esquecemos de movimentar os braços, alongar as pernas e fazer exercicios, isto que é essencial para mantermos o corpo saudável, e é ai onde entra o <strong>MoveIt</strong> para nos ajudar a ter pausas, durante o nosso momento de trabalho para nos movimentarmos. 
+Move it é um site com o objectivo de aplicarmos a técnica pomodoro, pois durante o nosso trabalho como desenvolvedores ficamos muito tempo na frente do computador, e esquecemos de movimentar os braços, alongar as pernas e fazer exercícios, isto que é essencial para mantermos o corpo saudável, e é ai onde entra o <strong>MoveIt</strong> para nos ajudar a ter pausas, durante o nosso momento de trabalho para nos movimentarmos. 
 </p>
 <h1 align="center"><a target="_blank" href="https://moveit-nu.vercel.app/">Acessar Demonstração</a></h1>
 
 ## ✅ Features
-  - [ ] Ver o tempo que ja estamos na tarefa
+  - [x] Comecar um ciclo pomodoro **25 minutos**
+  - [ ] Pausar o ciclo pomodoro 
+  - [ ] Receber desafios
 
 
 
