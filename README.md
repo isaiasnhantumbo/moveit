@@ -55,8 +55,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
   - [x] Colocar conteúdo um acima do outro usando o position
   ---
 
-- [ ] Responsividade **mobile version comming**
-
 --- -->
 
 ## ⚠ Pré-requisitos
