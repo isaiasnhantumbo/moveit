@@ -1,46 +1,113 @@
-# Getting Started with Create React App
+<br/>
+<h1 align="center">Move it</h1>
+<p align="center">
+    <img src ="./assets/" > 
+</p>
+<h2 align="center"> 
+<img src="https://img.shields.io/badge/Status-Em_CONSTRUÇÃO-green">
+</h2>
+<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Índice
+   * [Descrição do Projecto](#descrição-do-projecto)
+   * [Features](#-features)
+   * [Tecnologias usadas](#-tecnologias-usadas)
+   * [Pré-requisitos](#-pré-requisitos)
+   * [Rodando o projecto na sua maquina](#-rodando-o-projecto-na-sua-maquina-iniciando-o-servidor)
+   * [Licença](#-licença)
 
-## Available Scripts
 
-In the project directory, you can run:
+## 📖 Descrição do Projecto
 
-### `yarn start`
+<p align="center">
+Move it é um site com o objecto de aplicarmos a tecnica pomodoro, pois durante o nosso trabalho como desenvolvedores ficamos muito tempo na frente do computador, e esquecemos de movimentar os braços, alongar as pernas e fazer exercicios, isto que é essencial para mantermos o corpo saudável, e é ai onde entra o <strong>MoveIt</strong> para nos ajudar a ter pausas, durante o nosso momento de trabalho para nos movimentarmos. 
+</p>
+<h1 align="center"><a target="_blank" href="https://isaiasnhantumbo.github.io/institucional-website/">Acessar Demonstração</a></h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ✅ Features
+  - [ ] Ver o tempo que ja estamos na tarefa
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+<p align="center">
+  <!-- <img src = "http://i.imgur.com/0iorG20.png" width=700> -->
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+## 🛠 Tecnologias usadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+As seguintes ferramentas foram usadas na construção do projeto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+- CSS
+- ReactJs
+- Typescript
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- ## ⛈  Desafios do projecto
+  - [x] Criar um site institucional
+  - [x] Colocar animações no site
+  -  Ação de mostrar/esconder
+  - [x] Colocar conteúdo um acima do outro usando o position
+  ---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [ ] Responsividade **mobile version comming**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+--- -->
 
-## Learn More
+## ⚠ Pré-requisitos
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+## 🎲 Rodando o projecto na sua maquina (iniciando o live server)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/isaiasnhantumbo/moveit>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd moveit
+
+# Abra a pasta no Visual Studio Code
+$ code .
+
+# Instale as dependência
+$ yarn install
+
+# Execute a aplicação com o yarn
+$ yarn start
+
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
+```
+
+---
+
+
+## 📘 Licença
+Este projecto usa a  [MIT License](LICENSE).
+****
+<h1 align="center">
+👨🏽‍🏫 
+<br>
+Desenvolvido por
+<br>
+ Isaias Nhantumbo Junior
+</h1>
+</p>
+<h1 align="center"> 🤝 &nbsp;Vamos nos conectar ?👨 </h1>
+
+<p align="center">
+<a href="https://isaiasnhantumbo.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-isaias_nhantumbo-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.youtube.com/channel/UCOyeYkH0MwJ6RrXTcEFFdAQ?view_as=subscriber"><img alt="Youtube" src="https://img.shields.io/badge/Channel-Isaias_Inside-blue?style=flat-square&logo=youtube"></a>
+<a href="https://www.linkedin.com/in/isaias-nhantumbo-junior-733bb619b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Isaias%20Nhantumbo%20Junior-green?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/isaias_here/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-isaias__here_-blue??style=for-the-badge&logo=instagram"></a>
+</p>
+
+
+
+
