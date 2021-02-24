@@ -25,9 +25,10 @@ Move it é um site com o objectivo de aplicarmos a técnica pomodoro, pois duran
 <h1 align="center"><a target="_blank" href="https://moveit-nu.vercel.app/">Acessar Demonstração</a></h1>
 
 ## ✅ Features
-  - [x] Comecar um ciclo pomodoro **25 minutos**
-  - [ ] Pausar o ciclo pomodoro 
-  - [ ] Receber desafios
+  - [x] Começar um ciclo pomodoro **25 minutos**
+  - [x] Pausar o ciclo pomodoro 
+  - [x] Receber desafios
+  - [ ] Pontuação e subir de nível
 
 
 
