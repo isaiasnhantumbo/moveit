@@ -28,7 +28,8 @@ Move it é um site com o objectivo de aplicarmos a técnica pomodoro, pois duran
   - [x] Começar um ciclo pomodoro **25 minutos**
   - [x] Pausar o ciclo pomodoro 
   - [x] Receber desafios
-  - [ ] Pontuação e subir de nível
+  - [x] Pontuação e subir de nível
+  - [x] Guardar Pontuação do usuário e compartilhar a pontuação
 
 
 
