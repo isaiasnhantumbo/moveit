@@ -12,6 +12,7 @@
    * [Descrição do Projecto](#descrição-do-projecto)
    * [Features](#-features)
    * [Tecnologias usadas](#-tecnologias-usadas)
+   * [Desafios do Projecto](#-desafios-do-projecto)
    * [Pré-requisitos](#-pré-requisitos)
    * [Rodando o projecto na sua maquina](#-rodando-o-projecto-na-sua-maquina-iniciando-o-servidor)
    * [Licença](#-licença)
@@ -28,8 +29,11 @@ Move it é um site com o objectivo de aplicarmos a técnica pomodoro, pois duran
   - [x] Começar um ciclo pomodoro **25 minutos**
   - [x] Pausar o ciclo pomodoro 
   - [x] Receber desafios
+  - [x] Tocar notificação no Navegador para avisar o usuário que tem novo desafio
   - [x] Pontuação e subir de nível
-  - [x] Guardar Pontuação do usuário e compartilhar a pontuação
+  - [x] Guardar Pontuação do usuário
+  - [x] Abrir Modal quando o Usuário Subir de Level
+
 
 
 
@@ -44,20 +48,20 @@ Move it é um site com o objectivo de aplicarmos a técnica pomodoro, pois duran
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-- CSS
+- CSS Modules
 - ReactJs
 - Typescript
+- Nextjs
+- ContextApi
 
 ---
 
-<!-- ## ⛈  Desafios do projecto
-  - [x] Criar um site institucional
-  - [x] Colocar animações no site
-  -  Ação de mostrar/esconder
-  - [x] Colocar conteúdo um acima do outro usando o position
+## ⛈  Desafios do projecto
+  - [ ] Compartilhar a pontuação
+  - [ ] Pegar o github do usuário actual
   ---
 
---- -->
+---
 
 ## ⚠ Pré-requisitos
 
